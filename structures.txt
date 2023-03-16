@@ -1,0 +1,2 @@
+The code in the structires is one that prompts the user to input the value of 5 students and then stores it in a structure
+the stored data is then output
